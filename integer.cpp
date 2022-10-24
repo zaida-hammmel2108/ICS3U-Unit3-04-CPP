@@ -23,7 +23,7 @@ int main() {
     } else if (userNumber > 0) {
         // output
         std::cout << userNumber << "is a positive integer.";
-    } else(userNumber == 0) {
+    } else {
         // output
         std::cout << userNumber << "is just equal to zero.";
     }
